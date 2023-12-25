@@ -18,6 +18,7 @@ Tech stack used: Strava API, Python, S3, Redshift, Tableau
 
 2. Second dashboard: **My 2023 Strava Highlights**
 - Have a look at my dashboard here: [Click Here](https://public.tableau.com/views/Strava2023Highlights/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- The following image contains 60 of my running routes from the year 2023
 
 ![](https://github.com/ajitjadhav10/Strava-Project/blob/e722e6af528edd3ece5efb5af85b5796c10237e4/Extra_Files/Screen%20Shot%202023-12-18%20at%2010.44.58%20AM.png)
 
