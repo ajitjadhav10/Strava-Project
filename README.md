@@ -22,4 +22,8 @@ Tech stack used: Strava API, Python, S3, Redshift, Tableau
 
 ![](https://github.com/ajitjadhav10/Strava-Project/blob/e722e6af528edd3ece5efb5af85b5796c10237e4/Extra_Files/Screen%20Shot%202023-12-18%20at%2010.44.58%20AM.png)
 
+<br>
+<br>
 
+3. Third dashboard: **My Overall Performance Analysis**
+- Work in progress
